@@ -160,3 +160,6 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Own Version History manually downloaded from kaggle, for full version history to github (its a mess otherwise, had to do it manually)
+version_history/
